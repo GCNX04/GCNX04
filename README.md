@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, i'm *Gonçalo Costa* 👋
 
-<!--
-**GCNX04/GCNX04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self taught student with a passion for **software development** 💻.
 
-Here are some ideas to get you started:
+## About me 🫠
+I'm passionate about **technology** and **gaming**. From 2016 until 2025, I dedicated myself to becoming a professional **Rocket League** player, eventually competing at the *professional level*.
+Now im pursuing a different path and goal that is **Software Engineering**.
+Outside of gaming, I enjoy **programming**, **watching movies**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Current Focus 
+- Web Development 💻
+- AI & Machine Learning 🤖
+
+
